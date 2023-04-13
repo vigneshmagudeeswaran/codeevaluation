@@ -11,7 +11,7 @@ const Hello = () => {
 // Example for normal java script
 // return React.createElement(
 // 'div',
-//     null,
+//     {id: 'hello', className: 'dummyClass'},
 //     React.createElement('h1', null, 'Hello Vishwas')
 // )
 export default Hello;
